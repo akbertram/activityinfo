@@ -13,6 +13,6 @@ The results are:
 - one dataframe per DB 
 - extraction in csv for dataviz in dc.js
 - reports per theme
-- presentations (using slidify packages)
+- presentations (using solidify packages)
 
 To start, look at the code folder.
